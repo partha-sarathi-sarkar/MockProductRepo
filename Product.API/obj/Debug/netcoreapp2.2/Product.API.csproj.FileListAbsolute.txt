@@ -1,0 +1,13 @@
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\bin\Debug\netcoreapp2.2\Product.API.deps.json
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\bin\Debug\netcoreapp2.2\Product.API.runtimeconfig.json
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\bin\Debug\netcoreapp2.2\Product.API.runtimeconfig.dev.json
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\bin\Debug\netcoreapp2.2\Product.API.dll
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\bin\Debug\netcoreapp2.2\Product.API.pdb
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.csproj.CoreCompileInputs.cache
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.RazorAssemblyInfo.cache
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.RazorAssemblyInfo.cs
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.AssemblyInfoInputs.cache
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.AssemblyInfo.cs
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.RazorTargetAssemblyInfo.cache
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.dll
+C:\Users\hjtrivedi\source\repos\Product.API\Product.API\obj\Debug\netcoreapp2.2\Product.API.pdb
